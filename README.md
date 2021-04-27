@@ -1,11 +1,9 @@
-# scalableProject3Group8
-Scalable Project Group8 TCD
 
 ## Installation Guide:
 
 Checkout the code from the Repo: git clone https://github.com/shashankcollab/scalableProject3Group8.git
 
-### If you do not have access to the repo please email to shrivass@tcd.ie
+### If you do not have access to the repo please email to sakulkar@tcd.ie
 
 #### This project is to showcase peer to peer networking of given IoT devices. Automation steps include :
 - Create virtual environment
